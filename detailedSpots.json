@@ -1,0 +1,3005 @@
+[
+  {
+    "name": "Barbate River",
+    "link": "https://www.surf-forecast.com/breaks/Barbate-River",
+    "region": "Andalucia",
+    "lat": 36.1743,
+    "lon": -5.9194,
+    "reliability": "River",
+    "bestSeason": "Best Season: Spring",
+    "rating": "4"
+  },
+  {
+    "name": "La Barossa",
+    "link": "https://www.surf-forecast.com/breaks/La-Barossa",
+    "region": "Andalucia",
+    "lat": 36.363,
+    "lon": -6.1817,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa Central",
+    "link": "https://www.surf-forecast.com/breaks/Isla-Cristina",
+    "region": "Andalucia",
+    "lat": 37.1949,
+    "lon": -7.3084,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Bolonia",
+    "link": "https://www.surf-forecast.com/breaks/Bolonia",
+    "region": "Andalucia",
+    "lat": 36.1598,
+    "lon": -5.8821,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "La Cabanita",
+    "link": "https://www.surf-forecast.com/breaks/La-Cabanita",
+    "region": "Andalucia",
+    "lat": 36.485,
+    "lon": -6.2778,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Camposoto",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Campo-Sota",
+    "region": "Andalucia",
+    "lat": 36.3997,
+    "lon": -6.2203,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Cabo Roche",
+    "link": "https://www.surf-forecast.com/breaks/Cabo-Roche",
+    "region": "Andalucia",
+    "lat": 36.3069,
+    "lon": -6.1538,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Spring",
+    "rating": "3"
+  },
+  {
+    "name": "La Chucha",
+    "link": "https://www.surf-forecast.com/breaks/La-Chucha",
+    "region": "Andalucia",
+    "lat": 36.6952,
+    "lon": -3.4582,
+    "reliability": "Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Carchuna",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Carchuna",
+    "region": "Andalucia",
+    "lat": 36.6979,
+    "lon": -3.4151,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Calita",
+    "link": "https://www.surf-forecast.com/breaks/Calita_1",
+    "region": "Andalucia",
+    "lat": 36.6912,
+    "lon": -6.425,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "La Herradura",
+    "link": "https://www.surf-forecast.com/breaks/La-Herradura-Andalucia",
+    "region": "Andalucia",
+    "lat": 36.7331,
+    "lon": -3.7415,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Hierbabuena",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Hierbabuena",
+    "region": "Andalucia",
+    "lat": 36.1774,
+    "lon": -5.9716,
+    "reliability": "Point/River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "5"
+  },
+  {
+    "name": "Canos de Meca",
+    "link": "https://www.surf-forecast.com/breaks/Canosde-Meca",
+    "region": "Andalucia",
+    "lat": 36.1836,
+    "lon": -6.0278,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "La Muralla",
+    "link": "https://www.surf-forecast.com/breaks/La-Muralla",
+    "region": "Andalucia",
+    "lat": 36.581,
+    "lon": -6.2585,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de la Barrosa",
+    "link": "https://www.surf-forecast.com/breaks/Playadela-Barrosa",
+    "region": "Andalucia",
+    "lat": 36.3705,
+    "lon": -6.1851,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Chiclana de la Frontera",
+    "link": "https://www.surf-forecast.com/breaks/Chiclanadela-Frontera",
+    "region": "Andalucia",
+    "lat": 36.3869,
+    "lon": -6.2206,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "La Playita",
+    "link": "https://www.surf-forecast.com/breaks/La-Playita_1",
+    "region": "Andalucia",
+    "lat": 36.5242,
+    "lon": -6.2926,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de la Canaleta",
+    "link": "https://www.surf-forecast.com/breaks/La-Canaleta",
+    "region": "Andalucia",
+    "lat": 37.1707,
+    "lon": -6.955,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Chipiona",
+    "link": "https://www.surf-forecast.com/breaks/Chipiona",
+    "region": "Andalucia",
+    "lat": 36.7386,
+    "lon": -6.4547,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "La Yerbabuena",
+    "link": "https://www.surf-forecast.com/breaks/La-Yerbabuena",
+    "region": "Andalucia",
+    "lat": 36.1774,
+    "lon": -5.9716,
+    "reliability": "Point/River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "5"
+  },
+  {
+    "name": "Playa de Lagos",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Lagos",
+    "region": "Andalucia",
+    "lat": 36.7451,
+    "lon": -4.0529,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Conil",
+    "link": "https://www.surf-forecast.com/breaks/Conil",
+    "region": "Andalucia",
+    "lat": 36.2782,
+    "lon": -6.1128,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Largos",
+    "link": "https://www.surf-forecast.com/breaks/Largos",
+    "region": "Andalucia",
+    "lat": 36.4627,
+    "lon": -5,
+    "reliability": "Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Regla",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Regla",
+    "region": "Andalucia",
+    "lat": 36.7296,
+    "lon": -6.4417,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Conil de la Frontera",
+    "link": "https://www.surf-forecast.com/breaks/Conildela-Frontera",
+    "region": "Andalucia",
+    "lat": 36.2849,
+    "lon": -6.1063,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Las Caracolas",
+    "link": "https://www.surf-forecast.com/breaks/Las-Caracolas",
+    "region": "Andalucia",
+    "lat": 36.5144,
+    "lon": -6.287,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Tres Piedras",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Tres-Piedras",
+    "region": "Andalucia",
+    "lat": 36.6874,
+    "lon": -6.422,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "El Balneario",
+    "link": "https://www.surf-forecast.com/breaks/El-Balneario",
+    "region": "Andalucia",
+    "lat": 36.0156,
+    "lon": -5.6145,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Las Redes",
+    "link": "https://www.surf-forecast.com/breaks/Las-Redes",
+    "region": "Andalucia",
+    "lat": 36.6127,
+    "lon": -6.2936,
+    "reliability": "Sandbar",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa el Bombo",
+    "link": "https://www.surf-forecast.com/breaks/Playa-El-Bombo",
+    "region": "Andalucia",
+    "lat": 36.488,
+    "lon": -4.7084,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "El Caño de la Culata",
+    "link": "https://www.surf-forecast.com/breaks/El-Cano-de-la-Culata",
+    "region": "Andalucia",
+    "lat": 37.2108,
+    "lon": -7.0619,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Los Lances",
+    "link": "https://www.surf-forecast.com/breaks/Los-Lances",
+    "region": "Andalucia",
+    "lat": 36.0241,
+    "lon": -5.6216,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Spring",
+    "rating": "1"
+  },
+  {
+    "name": "Playa El Palmar",
+    "link": "https://www.surf-forecast.com/breaks/Playa-El-Palmar",
+    "region": "Andalucia",
+    "lat": 36.2323,
+    "lon": -6.0761,
+    "reliability": "Sandbar",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "El Castillo",
+    "link": "https://www.surf-forecast.com/breaks/El-Castillo",
+    "region": "Andalucia",
+    "lat": 36.377,
+    "lon": -6.2225,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Marbella - Playa del Cable",
+    "link": "https://www.surf-forecast.com/breaks/Marbella-Playa-del-Cable",
+    "region": "Andalucia",
+    "lat": 36.5065,
+    "lon": -4.8707,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Playa la Carihuela",
+    "link": "https://www.surf-forecast.com/breaks/Playala-Carihuela",
+    "region": "Andalucia",
+    "lat": 36.6409,
+    "lon": -4.4805,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "El Chanquete",
+    "link": "https://www.surf-forecast.com/breaks/El-Chanquete",
+    "region": "Andalucia",
+    "lat": 36.7159,
+    "lon": -4.3502,
+    "reliability": "Beach And Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Matalascañas",
+    "link": "https://www.surf-forecast.com/breaks/Matalascanas",
+    "region": "Andalucia",
+    "lat": 36.988,
+    "lon": -6.5396,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Puerto Cabopino",
+    "link": "https://www.surf-forecast.com/breaks/Cabopino",
+    "region": "Andalucia",
+    "lat": 36.4835,
+    "lon": -4.7419,
+    "reliability": "Sandbar",
+    "rating": "2"
+  },
+  {
+    "name": "El Sunset (Benalmádena)",
+    "link": "https://www.surf-forecast.com/breaks/El-Sunset-Benalmadena",
+    "region": "Andalucia",
+    "lat": 36.5821,
+    "lon": -4.5331,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Mazagon",
+    "link": "https://www.surf-forecast.com/breaks/Mazagon",
+    "region": "Andalucia",
+    "lat": 37.1193,
+    "lon": -6.7912,
+    "reliability": "Sandbar",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Puerto Marina",
+    "link": "https://www.surf-forecast.com/breaks/Puerto-Marina",
+    "region": "Andalucia",
+    "lat": 36.5989,
+    "lon": -4.506,
+    "reliability": "Sandbar",
+    "rating": "2"
+  },
+  {
+    "name": "Faro de Trafalgar",
+    "link": "https://www.surf-forecast.com/breaks/Faro-de-Trafalgar",
+    "region": "Andalucia",
+    "lat": 36.1836,
+    "lon": -6.0362,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Melilla Beach",
+    "link": "https://www.surf-forecast.com/breaks/Melilla-Beach",
+    "region": "Andalucia",
+    "lat": 35.275,
+    "lon": -2.9305,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Punta del Moral",
+    "link": "https://www.surf-forecast.com/breaks/Punta-del-Moral",
+    "region": "Andalucia",
+    "lat": 37.1809,
+    "lon": -7.3406,
+    "reliability": "Beach And Breakwater",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Fuengirola",
+    "link": "https://www.surf-forecast.com/breaks/Fuengirola",
+    "region": "Andalucia",
+    "lat": 36.5325,
+    "lon": -4.6229,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Mojacar",
+    "link": "https://www.surf-forecast.com/breaks/Mojacar-Beach-Pier",
+    "region": "Andalucia",
+    "lat": 37.1278,
+    "lon": -1.8208,
+    "reliability": "River",
+    "rating": "2"
+  },
+  {
+    "name": "Punta Umbria (Playa Camarón)",
+    "link": "https://www.surf-forecast.com/breaks/Playa-El-Camaron",
+    "region": "Andalucia",
+    "lat": 37.1831,
+    "lon": -6.9814,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Getares",
+    "link": "https://www.surf-forecast.com/breaks/Getares",
+    "region": "Andalucia",
+    "lat": 36.095,
+    "lon": -5.441,
+    "reliability": "Beach And Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Molino de Papel",
+    "link": "https://www.surf-forecast.com/breaks/Molino-de-Papel",
+    "region": "Andalucia",
+    "lat": 36.7426,
+    "lon": -3.8193,
+    "reliability": "Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Torre Gorda",
+    "link": "https://www.surf-forecast.com/breaks/Torre-Gorda",
+    "region": "Andalucia",
+    "lat": 36.4649,
+    "lon": -6.2582,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Guadalmar",
+    "link": "https://www.surf-forecast.com/breaks/Guadalmar",
+    "region": "Andalucia",
+    "lat": 36.663,
+    "lon": -4.4567,
+    "reliability": "River",
+    "rating": "2"
+  },
+  {
+    "name": "Pico de el Puerto",
+    "link": "https://www.surf-forecast.com/breaks/Picodeel-Puerto",
+    "region": "Andalucia",
+    "lat": 36.7623,
+    "lon": -2.0904,
+    "reliability": "Reef",
+    "rating": "1"
+  },
+  {
+    "name": "Zahara de los Atunes",
+    "link": "https://www.surf-forecast.com/breaks/Zaharadelos-Atunes",
+    "region": "Andalucia",
+    "lat": 36.1322,
+    "lon": -5.8483,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Spring",
+    "rating": "2"
+  },
+  {
+    "name": "Isla Canela",
+    "link": "https://www.surf-forecast.com/breaks/Isla-Canela",
+    "region": "Andalucia",
+    "lat": 37.1713,
+    "lon": -7.3808,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Pico de las Cocheras",
+    "link": "https://www.surf-forecast.com/breaks/Picodelas-Cocheras",
+    "region": "Andalucia",
+    "lat": 36.7576,
+    "lon": -2.1103,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Cabo Lastres",
+    "link": "https://www.surf-forecast.com/breaks/Cabo-Lastres",
+    "region": "Asturias",
+    "lat": 43.5338,
+    "lon": -5.2956,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de la Atalaya y Cazanera",
+    "link": "https://www.surf-forecast.com/breaks/Playadela-Atalayay-Cazanera",
+    "region": "Asturias",
+    "lat": 43.5576,
+    "lon": -6.1233,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de San Pedro",
+    "link": "https://www.surf-forecast.com/breaks/Playade-San-Pedro",
+    "region": "Asturias",
+    "lat": 43.5918,
+    "lon": -6.2507,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Cala De Meron",
+    "link": "https://www.surf-forecast.com/breaks/Calade-Meron",
+    "region": "Asturias",
+    "lat": 43.5463,
+    "lon": -5.4957,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de la Cagonera",
+    "link": "https://www.surf-forecast.com/breaks/Playadela-Cagonera",
+    "region": "Asturias",
+    "lat": 43.5532,
+    "lon": -5.6129,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Santa Marina",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Santa-Marina_Ribadesalla",
+    "region": "Asturias",
+    "lat": 43.4674,
+    "lon": -5.0704,
+    "reliability": "Beach, Point And Rivermouth",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Concha de Artedo",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Conchade-Artedo",
+    "region": "Asturias",
+    "lat": 43.5658,
+    "lon": -6.1908,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de la Griega",
+    "link": "https://www.surf-forecast.com/breaks/Playadela-Griega",
+    "region": "Asturias",
+    "lat": 43.5022,
+    "lon": -5.2544,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Tapia",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Tapia",
+    "region": "Asturias",
+    "lat": 43.5716,
+    "lon": -6.9353,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "El Mongol",
+    "link": "https://www.surf-forecast.com/breaks/El-Mongol",
+    "region": "Asturias",
+    "lat": 43.5437,
+    "lon": -5.6689,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Lastres",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Lastres",
+    "region": "Asturias",
+    "lat": 43.5368,
+    "lon": -5.2838,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Torimbia",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Torimbia",
+    "region": "Asturias",
+    "lat": 43.4446,
+    "lon": -4.8677,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "La Arena",
+    "link": "https://www.surf-forecast.com/breaks/La-Arena",
+    "region": "Asturias",
+    "lat": 43.565,
+    "lon": -6.0683,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Llumeres",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Llumeres",
+    "region": "Asturias",
+    "lat": 43.6441,
+    "lon": -5.8206,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Tranqueru",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Tranqueru",
+    "region": "Asturias",
+    "lat": 43.5738,
+    "lon": -5.7326,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "La Nora",
+    "link": "https://www.surf-forecast.com/breaks/La-Nora",
+    "region": "Asturias",
+    "lat": 43.5497,
+    "lon": -5.5923,
+    "reliability": "Beach And Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Luanco",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Luanco",
+    "region": "Asturias",
+    "lat": 43.62,
+    "lon": -5.7775,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Vega",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Vega_1",
+    "region": "Asturias",
+    "lat": 43.4793,
+    "lon": -5.1432,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "La Paloma",
+    "link": "https://www.surf-forecast.com/breaks/La-Paloma_1",
+    "region": "Asturias",
+    "lat": 43.5581,
+    "lon": -6.9763,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Mendia",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Mendia",
+    "region": "Asturias",
+    "lat": 43.3936,
+    "lon": -4.5641,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Vidiago",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Vidiago",
+    "region": "Asturias",
+    "lat": 43.4021,
+    "lon": -4.6532,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa Aguilera",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Aguilera",
+    "region": "Asturias",
+    "lat": 43.6323,
+    "lon": -5.8681,
+    "reliability": "Beach And Point",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Navia",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Navia",
+    "region": "Asturias",
+    "lat": 43.5604,
+    "lon": -6.7177,
+    "reliability": "Beach And Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Viso",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Viso",
+    "region": "Asturias",
+    "lat": 43.4748,
+    "lon": -5.2116,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa Bahinas",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Bahinas",
+    "region": "Asturias",
+    "lat": 43.5847,
+    "lon": -6.0353,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Niembro",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Niembro",
+    "region": "Asturias",
+    "lat": 43.4265,
+    "lon": -4.7647,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Xago",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Xago",
+    "region": "Asturias",
+    "lat": 43.6087,
+    "lon": -5.9149,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Andrin",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Andrin",
+    "region": "Asturias",
+    "lat": 43.4098,
+    "lon": -4.6903,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Oleiros",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Oleiros",
+    "region": "Asturias",
+    "lat": 43.5883,
+    "lon": -6.2254,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Playa del Moro",
+    "link": "https://www.surf-forecast.com/breaks/Playadeel-Moro",
+    "region": "Asturias",
+    "lat": 43.5627,
+    "lon": -6.6757,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Arnao",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Arnao",
+    "region": "Asturias",
+    "lat": 43.5793,
+    "lon": -5.9598,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Otur",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Otur",
+    "region": "Asturias",
+    "lat": 43.5558,
+    "lon": -6.5957,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa los Frailes",
+    "link": "https://www.surf-forecast.com/breaks/Playalos-Frailes",
+    "region": "Asturias",
+    "lat": 43.4232,
+    "lon": -4.752,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Barayo",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Barrayo",
+    "region": "Asturias",
+    "lat": 43.559,
+    "lon": -6.603,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Palombina",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Palombina",
+    "region": "Asturias",
+    "lat": 43.4201,
+    "lon": -4.7479,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa Santa Maria del Mar",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Santa-Mariadel-Mar",
+    "region": "Asturias",
+    "lat": 43.587,
+    "lon": -6.0249,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Bayas",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Bayas",
+    "region": "Asturias",
+    "lat": 43.5752,
+    "lon": -6.0447,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Penarronda",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Penarronda",
+    "region": "Asturias",
+    "lat": 43.5582,
+    "lon": -7.0123,
+    "reliability": "Breakwater",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa Tenrero",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Tenrero",
+    "region": "Asturias",
+    "lat": 43.6232,
+    "lon": -5.8842,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Cadavedo",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Cadavedo",
+    "region": "Asturias",
+    "lat": 43.5623,
+    "lon": -6.4293,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Penarrubia",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Penarrubia",
+    "region": "Asturias",
+    "lat": 43.5517,
+    "lon": -5.6297,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "4"
+  },
+  {
+    "name": "Puerto de Vega",
+    "link": "https://www.surf-forecast.com/breaks/Puertode-Vega",
+    "region": "Asturias",
+    "lat": 43.5695,
+    "lon": -6.6372,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Candas",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Candas",
+    "region": "Asturias",
+    "lat": 43.5863,
+    "lon": -5.7581,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Salinas",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Salinas",
+    "region": "Asturias",
+    "lat": 43.5848,
+    "lon": -5.9462,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Rodiles",
+    "link": "https://www.surf-forecast.com/breaks/Rodiles",
+    "region": "Asturias",
+    "lat": 43.534,
+    "lon": -5.3844,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Cervigon",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Cervigon",
+    "region": "Asturias",
+    "lat": 43.5511,
+    "lon": -5.6476,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de San Antolin",
+    "link": "https://www.surf-forecast.com/breaks/Playade-San-Antolin",
+    "region": "Asturias",
+    "lat": 43.4498,
+    "lon": -4.8889,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Rodiles - Main Beach",
+    "link": "https://www.surf-forecast.com/breaks/Rodiles_Main-Beach",
+    "region": "Asturias",
+    "lat": 43.534,
+    "lon": -5.3789,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Cueva",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Cueva",
+    "region": "Asturias",
+    "lat": 43.5586,
+    "lon": -6.4874,
+    "reliability": "River",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de San Juan",
+    "link": "https://www.surf-forecast.com/breaks/Playade-San-Juan-and-Espartal",
+    "region": "Asturias",
+    "lat": 43.5997,
+    "lon": -5.9402,
+    "reliability": "Beach/Jetty",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "4"
+  },
+  {
+    "name": "Salinas",
+    "link": "https://www.surf-forecast.com/breaks/Salinas",
+    "region": "Asturias",
+    "lat": 43.5804,
+    "lon": -5.954,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Espana",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Espana",
+    "region": "Asturias",
+    "lat": 43.5497,
+    "lon": -5.5562,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de San Lorenzo",
+    "link": "https://www.surf-forecast.com/breaks/Playade-San-Lorenzo",
+    "region": "Asturias",
+    "lat": 43.5431,
+    "lon": -5.6765,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Tapia de Casariego",
+    "link": "https://www.surf-forecast.com/breaks/Tapiade-Casariego",
+    "region": "Asturias",
+    "lat": 43.5629,
+    "lon": -6.9628,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Frexulfe",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Frexulfe",
+    "region": "Asturias",
+    "lat": 43.5717,
+    "lon": -6.6311,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de San Martin",
+    "link": "https://www.surf-forecast.com/breaks/Playade-San-Martin",
+    "region": "Asturias",
+    "lat": 43.4181,
+    "lon": -4.7395,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Xivares",
+    "link": "https://www.surf-forecast.com/breaks/Xivares",
+    "region": "Asturias",
+    "lat": 43.5699,
+    "lon": -5.7178,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Formentera - Playa des Mitgjorn",
+    "link": "https://www.surf-forecast.com/breaks/Playa-des-Mitgjorn",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 38.6757,
+    "lon": 1.4549,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Mallorca - Cala Mesquida",
+    "link": "https://www.surf-forecast.com/breaks/Calo-Mesquida-Mallorca",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.7461,
+    "lon": 3.4322,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Mallorca - Paguera Tora",
+    "link": "https://www.surf-forecast.com/breaks/Paguera-Tora-Mallorca",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.5347,
+    "lon": 2.4562,
+    "reliability": "Beach And Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Ibiza - Cala Nova",
+    "link": "https://www.surf-forecast.com/breaks/Cala-Nova",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.0018,
+    "lon": 1.5787,
+    "reliability": "Beach And Reef",
+    "rating": "1"
+  },
+  {
+    "name": "Mallorca - Cala Ratjada",
+    "link": "https://www.surf-forecast.com/breaks/Cala-Ratjada",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.7048,
+    "lon": 3.4568,
+    "reliability": "Beach And Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Mallorca - Son Serra de Marina",
+    "link": "https://www.surf-forecast.com/breaks/Son-Serra-de-Marina",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.7486,
+    "lon": 3.224,
+    "reliability": "Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Ibiza - Punta Xarraca",
+    "link": "https://www.surf-forecast.com/breaks/Punta-Xarraca-Ibiza",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.1018,
+    "lon": 1.5064,
+    "reliability": "Beach And Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Mallorca - Es Trenc",
+    "link": "https://www.surf-forecast.com/breaks/Es-Trenc",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.343,
+    "lon": 2.9842,
+    "reliability": "Sandbar",
+    "rating": "1"
+  },
+  {
+    "name": "Mallorca - Son Serra Nova",
+    "link": "https://www.surf-forecast.com/breaks/Son-Serra-Nova",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.7487,
+    "lon": 3.2236,
+    "reliability": "Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Mallorca - Cala Major",
+    "link": "https://www.surf-forecast.com/breaks/Cala-Major-Mallorca",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.5518,
+    "lon": 2.6065,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Mallorca - Malpas",
+    "link": "https://www.surf-forecast.com/breaks/Malpas",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.8648,
+    "lon": 3.138,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Menorca - Son Bou",
+    "link": "https://www.surf-forecast.com/breaks/Son-Bou",
+    "region": "Balearic Islands (Islas Baleares)",
+    "lat": 39.8953,
+    "lon": 4.0611,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Aiguadolc",
+    "link": "https://www.surf-forecast.com/breaks/Aiguadolc",
+    "region": "Catalunia",
+    "lat": 41.2343,
+    "lon": 1.8286,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Garraf",
+    "link": "https://www.surf-forecast.com/breaks/Garraf",
+    "region": "Catalunia",
+    "lat": 41.2543,
+    "lon": 1.905,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Sant Sebastia",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Sant-Sebastia",
+    "region": "Catalunia",
+    "lat": 41.3779,
+    "lon": 2.1935,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Barceloneta",
+    "link": "https://www.surf-forecast.com/breaks/Barceloneta",
+    "region": "Catalunia",
+    "lat": 41.3788,
+    "lon": 2.1927,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "La Rotonda",
+    "link": "https://www.surf-forecast.com/breaks/La-Rotonda",
+    "region": "Catalunia",
+    "lat": 41.4709,
+    "lon": 2.2963,
+    "reliability": "Beach",
+    "rating": "3"
+  },
+  {
+    "name": "Port de Mataro",
+    "link": "https://www.surf-forecast.com/breaks/Port-de-Mataro",
+    "region": "Catalunia",
+    "lat": 41.5311,
+    "lon": 2.4494,
+    "reliability": "Breakwater",
+    "rating": "1"
+  },
+  {
+    "name": "Bogatell",
+    "link": "https://www.surf-forecast.com/breaks/Bogatell",
+    "region": "Catalunia",
+    "lat": 41.3928,
+    "lon": 2.2074,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Latigo",
+    "link": "https://www.surf-forecast.com/breaks/Latigo",
+    "region": "Catalunia",
+    "lat": 41.1826,
+    "lon": 1.5495,
+    "reliability": "Beach",
+    "rating": "3"
+  },
+  {
+    "name": "Port Ginesta",
+    "link": "https://www.surf-forecast.com/breaks/Port-Ginesta-Castelldefels",
+    "region": "Catalunia",
+    "lat": 41.2592,
+    "lon": 1.9305,
+    "reliability": "Breakwater",
+    "rating": "3"
+  },
+  {
+    "name": "Cabrera",
+    "link": "https://www.surf-forecast.com/breaks/Cabrera",
+    "region": "Catalunia",
+    "lat": 41.5069,
+    "lon": 2.4051,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Miami Platja",
+    "link": "https://www.surf-forecast.com/breaks/Miami-Platja",
+    "region": "Catalunia",
+    "lat": 40.9932,
+    "lon": 0.9333,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Roc San Cayetano",
+    "link": "https://www.surf-forecast.com/breaks/Roc-San-Cayetano",
+    "region": "Catalunia",
+    "lat": 41.1671,
+    "lon": 1.4806,
+    "reliability": "Point",
+    "rating": "3"
+  },
+  {
+    "name": "Cala de Santa Cristina",
+    "link": "https://www.surf-forecast.com/breaks/Calade-Santa-Cristina",
+    "region": "Catalunia",
+    "lat": 41.6722,
+    "lon": 2.7958,
+    "reliability": "Beach",
+    "rating": "3"
+  },
+  {
+    "name": "Montgat",
+    "link": "https://www.surf-forecast.com/breaks/Montgat",
+    "region": "Catalunia",
+    "lat": 41.4635,
+    "lon": 2.2781,
+    "reliability": "Sandbar",
+    "rating": "3"
+  },
+  {
+    "name": "Saint Andreu de Llavaneres",
+    "link": "https://www.surf-forecast.com/breaks/Saint-Andreu-de-Llavaneres",
+    "region": "Catalunia",
+    "lat": 41.5476,
+    "lon": 2.5098,
+    "reliability": "Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Comandancia",
+    "link": "https://www.surf-forecast.com/breaks/Comandancia",
+    "region": "Catalunia",
+    "lat": 41.1112,
+    "lon": 1.2571,
+    "reliability": "-",
+    "rating": "3"
+  },
+  {
+    "name": "Nova Mar Bella",
+    "link": "https://www.surf-forecast.com/breaks/Nova-Mar-Bella-Barcelona",
+    "region": "Catalunia",
+    "lat": 41.4016,
+    "lon": 2.2148,
+    "reliability": "Breakwater",
+    "rating": "2"
+  },
+  {
+    "name": "Sant Martí d'Empúries",
+    "link": "https://www.surf-forecast.com/breaks/Sant-Marti",
+    "region": "Catalunia",
+    "lat": 42.138,
+    "lon": 3.1205,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Desembocadura del Tordera",
+    "link": "https://www.surf-forecast.com/breaks/Desembocaduradel-Tordera",
+    "region": "Catalunia",
+    "lat": 41.6472,
+    "lon": 2.7898,
+    "reliability": "Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Peyo's",
+    "link": "https://www.surf-forecast.com/breaks/Peyo-s",
+    "region": "Catalunia",
+    "lat": 40.8249,
+    "lon": 0.7538,
+    "reliability": "Reef",
+    "rating": "1"
+  },
+  {
+    "name": "Segur de Calafell",
+    "link": "https://www.surf-forecast.com/breaks/Segur-de-Calafell",
+    "region": "Catalunia",
+    "lat": 41.1883,
+    "lon": 1.6099,
+    "reliability": "Point",
+    "rating": "2"
+  },
+  {
+    "name": "El Masnou",
+    "link": "https://www.surf-forecast.com/breaks/Masnou",
+    "region": "Catalunia",
+    "lat": 41.4759,
+    "lon": 2.3176,
+    "reliability": "Sandbar",
+    "rating": "2"
+  },
+  {
+    "name": "Platja de Sant Pol",
+    "link": "https://www.surf-forecast.com/breaks/Platja-de-Sant-Pol",
+    "region": "Catalunia",
+    "lat": 41.7901,
+    "lon": 3.048,
+    "reliability": "Beach And Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Torre Bank",
+    "link": "https://www.surf-forecast.com/breaks/Torre-Bank",
+    "region": "Catalunia",
+    "lat": 41.1375,
+    "lon": 1.4055,
+    "reliability": "Sandbar",
+    "rating": "3"
+  },
+  {
+    "name": "Empuriabrava",
+    "link": "https://www.surf-forecast.com/breaks/Empuriabrava",
+    "region": "Catalunia",
+    "lat": 42.251,
+    "lon": 3.1434,
+    "reliability": "Beach",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Premia",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Premia",
+    "region": "Catalunia",
+    "lat": 41.4455,
+    "lon": 2.2521,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "Vilassar de Mar",
+    "link": "https://www.surf-forecast.com/breaks/Vilassar",
+    "region": "Catalunia",
+    "lat": 41.499,
+    "lon": 2.3867,
+    "reliability": "Beach",
+    "rating": "3"
+  },
+  {
+    "name": "Louro (Playa Area Maior)",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Louro",
+    "region": "Galicia",
+    "lat": 42.7497,
+    "lon": -9.0956,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Castro",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Castro",
+    "region": "Galicia",
+    "lat": 43.7522,
+    "lon": -7.7242,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de San Miguel de Reinante",
+    "link": "https://www.surf-forecast.com/breaks/Playade-San-Miguelde-Reinante",
+    "region": "Galicia",
+    "lat": 43.5657,
+    "lon": -7.207,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Matadeiro",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Riazor",
+    "region": "Galicia",
+    "lat": 43.371,
+    "lon": -8.4064,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Doninos",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Doninos",
+    "region": "Galicia",
+    "lat": 43.4927,
+    "lon": -8.3243,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Spring",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de San Roman",
+    "link": "https://www.surf-forecast.com/breaks/Playade-San-Roman",
+    "region": "Galicia",
+    "lat": 43.7207,
+    "lon": -7.6237,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Nemina",
+    "link": "https://www.surf-forecast.com/breaks/Nemina",
+    "region": "Galicia",
+    "lat": 43.0036,
+    "lon": -9.2722,
+    "reliability": "River",
+    "bestSeason": "Best Season: Summer",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Espasante",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Espasante",
+    "region": "Galicia",
+    "lat": 43.7249,
+    "lon": -7.7991,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de San Xurxo",
+    "link": "https://www.surf-forecast.com/breaks/Playade-San-Xurxo",
+    "region": "Galicia",
+    "lat": 43.5321,
+    "lon": -8.3017,
+    "reliability": "Beach And Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Pantin",
+    "link": "https://www.surf-forecast.com/breaks/Pantin",
+    "region": "Galicia",
+    "lat": 43.6353,
+    "lon": -8.1296,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Esteiro",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Esteiro",
+    "region": "Galicia",
+    "lat": 43.7784,
+    "lon": -7.688,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Summer",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Sarrigal",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Sarrigal",
+    "region": "Galicia",
+    "lat": 43.736,
+    "lon": -7.7757,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "2"
+  },
+  {
+    "name": "Pedra do Sal",
+    "link": "https://www.surf-forecast.com/breaks/Pedra-do-Sal",
+    "region": "Galicia",
+    "lat": 43.3032,
+    "lon": -8.6599,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Fonforron",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Fonforron",
+    "region": "Galicia",
+    "lat": 42.7103,
+    "lon": -9.0169,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Seaia",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Seaia",
+    "region": "Galicia",
+    "lat": 43.3306,
+    "lon": -8.825,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa Aguieira",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Aguieira",
+    "region": "Galicia",
+    "lat": 42.736,
+    "lon": -9.0035,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Ladeira",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Ladeira",
+    "region": "Galicia",
+    "lat": 42.5725,
+    "lon": -9.0498,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Soesto",
+    "link": "https://www.surf-forecast.com/breaks/Playa-de-Soesto",
+    "region": "Galicia",
+    "lat": 43.215,
+    "lon": -9.0214,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa da A Marosa",
+    "link": "https://www.surf-forecast.com/breaks/Playa-A-Marosa",
+    "region": "Galicia",
+    "lat": 43.6748,
+    "lon": -7.3737,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Lanzada",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Lanzada",
+    "region": "Galicia",
+    "lat": 42.45,
+    "lon": -8.8808,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Traba",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Traba",
+    "region": "Galicia",
+    "lat": 43.1899,
+    "lon": -9.0518,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Area",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Area",
+    "region": "Galicia",
+    "lat": 43.6901,
+    "lon": -7.582,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Larino",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Larino",
+    "region": "Galicia",
+    "lat": 42.7665,
+    "lon": -9.1211,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa do Carreiro",
+    "link": "https://www.surf-forecast.com/breaks/Playado-Carreiro",
+    "region": "Galicia",
+    "lat": 41.905,
+    "lon": -8.8902,
+    "reliability": "River",
+    "bestSeason": "Best Season: Summer",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Baldayo - La Laguna",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Baldanio",
+    "region": "Galicia",
+    "lat": 43.3027,
+    "lon": -8.665,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Madorra",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Madorra",
+    "region": "Galicia",
+    "lat": 42.1279,
+    "lon": -8.8221,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa do Orzan",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Orzan",
+    "region": "Galicia",
+    "lat": 43.374,
+    "lon": -8.4047,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Baleo",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Baleo",
+    "region": "Galicia",
+    "lat": 43.6512,
+    "lon": -8.0581,
+    "reliability": "Sandbar",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Malpica",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Malpica",
+    "region": "Galicia",
+    "lat": 43.3253,
+    "lon": -8.8155,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa do Rostro",
+    "link": "https://www.surf-forecast.com/breaks/Playado-Rostro",
+    "region": "Galicia",
+    "lat": 42.969,
+    "lon": -9.2676,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Barona",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Barona",
+    "region": "Galicia",
+    "lat": 42.6812,
+    "lon": -9.0324,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Melide",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Melide",
+    "region": "Galicia",
+    "lat": 42.2504,
+    "lon": -8.8681,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa Rapadoira",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Rapadoira",
+    "region": "Galicia",
+    "lat": 43.5879,
+    "lon": -7.2472,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Barra",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Barra",
+    "region": "Galicia",
+    "lat": 42.2558,
+    "lon": -8.8082,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Montalbo",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Montalbo",
+    "region": "Galicia",
+    "lat": 42.4106,
+    "lon": -8.8663,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Ponzos",
+    "link": "https://www.surf-forecast.com/breaks/Ponzos",
+    "region": "Galicia",
+    "lat": 43.5562,
+    "lon": -8.2697,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Barranan",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Barranan",
+    "region": "Galicia",
+    "lat": 43.3164,
+    "lon": -8.5447,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Nerga",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Negra",
+    "region": "Galicia",
+    "lat": 42.2607,
+    "lon": -8.7697,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Ria Foz",
+    "link": "https://www.surf-forecast.com/breaks/Ria-Foz",
+    "region": "Galicia",
+    "lat": 43.5904,
+    "lon": -7.2585,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Bastiagueiro",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Bastiagueiros",
+    "region": "Galicia",
+    "lat": 43.3414,
+    "lon": -8.3622,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Patos (El Pico)",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Patos",
+    "region": "Galicia",
+    "lat": 42.1557,
+    "lon": -8.8351,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Santa Comba",
+    "link": "https://www.surf-forecast.com/breaks/Sta-Comba",
+    "region": "Galicia",
+    "lat": 43.5564,
+    "lon": -8.2954,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Caion",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Caion",
+    "region": "Galicia",
+    "lat": 43.3201,
+    "lon": -8.5983,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Razo",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Razo",
+    "region": "Galicia",
+    "lat": 43.2973,
+    "lon": -8.6905,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Santa Maria de Oia",
+    "link": "https://www.surf-forecast.com/breaks/Santa-Mariade-Oia",
+    "region": "Galicia",
+    "lat": 42.0094,
+    "lon": -8.8939,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Campelo",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Campelo",
+    "region": "Galicia",
+    "lat": 43.6127,
+    "lon": -8.1919,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Rio Sieira / As Furnas",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Rio-Sieira",
+    "region": "Galicia",
+    "lat": 42.6282,
+    "lon": -9.048,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Serans",
+    "link": "https://www.surf-forecast.com/breaks/Serans",
+    "region": "Galicia",
+    "lat": 42.6223,
+    "lon": -9.0548,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Carino",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Carino",
+    "region": "Galicia",
+    "lat": 43.7297,
+    "lon": -7.8651,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Sabon",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Sabon",
+    "region": "Galicia",
+    "lat": 43.3621,
+    "lon": -8.4621,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Valdovino",
+    "link": "https://www.surf-forecast.com/breaks/Valdovino",
+    "region": "Galicia",
+    "lat": 43.6163,
+    "lon": -8.169,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Carnota",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Carnota",
+    "region": "Galicia",
+    "lat": 42.8383,
+    "lon": -9.1116,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Spring",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de San Cibrao",
+    "link": "https://www.surf-forecast.com/breaks/Playade-San-Cibrao",
+    "region": "Galicia",
+    "lat": 43.707,
+    "lon": -7.4672,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Villarrube",
+    "link": "https://www.surf-forecast.com/breaks/Villarrube",
+    "region": "Galicia",
+    "lat": 43.647,
+    "lon": -8.0767,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "La Manga",
+    "link": "https://www.surf-forecast.com/breaks/La-Manga",
+    "region": "Murcia",
+    "lat": 37.7071,
+    "lon": -0.7384,
+    "reliability": "Beach",
+    "rating": "3"
+  },
+  {
+    "name": "Pico de la Autopista",
+    "link": "https://www.surf-forecast.com/breaks/Picodela-Autopista",
+    "region": "Murcia",
+    "lat": 37.7505,
+    "lon": -0.7206,
+    "reliability": "Reef",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Levante",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Levante",
+    "region": "Murcia",
+    "lat": 37.6607,
+    "lon": -0.7199,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Pico de el Errizo",
+    "link": "https://www.surf-forecast.com/breaks/Picodeel-Errizo",
+    "region": "Murcia",
+    "lat": 37.7373,
+    "lon": -0.7247,
+    "reliability": "Reef",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Entremares",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Entremares",
+    "region": "Murcia",
+    "lat": 37.6825,
+    "lon": -0.7308,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Punta de la Raja",
+    "link": "https://www.surf-forecast.com/breaks/Puntadela-Raja",
+    "region": "Murcia",
+    "lat": 37.7638,
+    "lon": -0.7334,
+    "reliability": "Reef",
+    "rating": "1"
+  },
+  {
+    "name": "Bakio",
+    "link": "https://www.surf-forecast.com/breaks/Bakio",
+    "region": "Pais Vasco",
+    "lat": 43.4342,
+    "lon": -2.8012,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Orio",
+    "link": "https://www.surf-forecast.com/breaks/Orio",
+    "region": "Pais Vasco",
+    "lat": 43.296,
+    "lon": -2.1213,
+    "reliability": "Beach/Jetty/River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Laida",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Laida",
+    "region": "Pais Vasco",
+    "lat": 43.4129,
+    "lon": -2.6902,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Barinatxe - La Salvaje",
+    "link": "https://www.surf-forecast.com/breaks/La-Salvaje",
+    "region": "Pais Vasco",
+    "lat": 43.3837,
+    "lon": -3.0082,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Orrua",
+    "link": "https://www.surf-forecast.com/breaks/Orrua",
+    "region": "Pais Vasco",
+    "lat": 43.3108,
+    "lon": -2.2246,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Ogeia",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Ogeia",
+    "region": "Pais Vasco",
+    "lat": 43.3747,
+    "lon": -2.5494,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Deba",
+    "link": "https://www.surf-forecast.com/breaks/Deba",
+    "region": "Pais Vasco",
+    "lat": 43.305,
+    "lon": -2.3436,
+    "reliability": "Beach And Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Pena Roja",
+    "link": "https://www.surf-forecast.com/breaks/Pena-Roja",
+    "region": "Pais Vasco",
+    "lat": 43.4382,
+    "lon": -2.7989,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Ondarreta - Pikua",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Ondarreta_Pikua",
+    "region": "Pais Vasco",
+    "lat": 43.3095,
+    "lon": -2.0778,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Guibeleco",
+    "link": "https://www.surf-forecast.com/breaks/Guibeleco",
+    "region": "Pais Vasco",
+    "lat": 43.4331,
+    "lon": -2.7409,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "5"
+  },
+  {
+    "name": "Playa de Aizkorri",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Aizkorri",
+    "region": "Pais Vasco",
+    "lat": 43.3825,
+    "lon": -3.0083,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Ondarreta (Pico del Tenis)",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Ondarreta_Picodel-Tenis",
+    "region": "Pais Vasco",
+    "lat": 43.3095,
+    "lon": -2.0778,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Hondarribia",
+    "link": "https://www.surf-forecast.com/breaks/Hondarribia",
+    "region": "Pais Vasco",
+    "lat": 43.3851,
+    "lon": -1.8192,
+    "reliability": "Beach/Jetty",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Arrietara",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Arrietara",
+    "region": "Pais Vasco",
+    "lat": 43.3982,
+    "lon": -3.0005,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "5"
+  },
+  {
+    "name": "Plentzia",
+    "link": "https://www.surf-forecast.com/breaks/Plentzia",
+    "region": "Pais Vasco",
+    "lat": 43.413,
+    "lon": -2.9478,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Isla de Izaro",
+    "link": "https://www.surf-forecast.com/breaks/Islade-Izaro",
+    "region": "Pais Vasco",
+    "lat": 43.4197,
+    "lon": -2.6976,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Summer",
+    "rating": "5"
+  },
+  {
+    "name": "Playa de Arrigunaga",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Arrigunaga",
+    "region": "Pais Vasco",
+    "lat": 43.351,
+    "lon": -3.0194,
+    "reliability": "Sandbar",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Punta Galea",
+    "link": "https://www.surf-forecast.com/breaks/Punta-Galea",
+    "region": "Pais Vasco",
+    "lat": 43.3605,
+    "lon": -3.0223,
+    "reliability": "Point/Jetty",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Karramarro",
+    "link": "https://www.surf-forecast.com/breaks/Karramarro",
+    "region": "Pais Vasco",
+    "lat": 43.3007,
+    "lon": -2.1962,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Barrika",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Barrika",
+    "region": "Pais Vasco",
+    "lat": 43.4018,
+    "lon": -2.9869,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Roca Puta",
+    "link": "https://www.surf-forecast.com/breaks/Roca-Puta",
+    "region": "Pais Vasco",
+    "lat": 43.3182,
+    "lon": -2.236,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "4"
+  },
+  {
+    "name": "La Arena",
+    "link": "https://www.surf-forecast.com/breaks/La-Arena-1",
+    "region": "Pais Vasco",
+    "lat": 43.3508,
+    "lon": -3.1172,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Ereaga",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Ereaga",
+    "region": "Pais Vasco",
+    "lat": 43.3446,
+    "lon": -3.0127,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Sopelana",
+    "link": "https://www.surf-forecast.com/breaks/Sopelana",
+    "region": "Pais Vasco",
+    "lat": 43.3908,
+    "lon": -2.9939,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "4"
+  },
+  {
+    "name": "La Concha",
+    "link": "https://www.surf-forecast.com/breaks/La-Concha",
+    "region": "Pais Vasco",
+    "lat": 43.3161,
+    "lon": -2.049,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Gaztetape",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Gaztetape",
+    "region": "Pais Vasco",
+    "lat": 43.307,
+    "lon": -2.2107,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Zarautz",
+    "link": "https://www.surf-forecast.com/breaks/Zarautz",
+    "region": "Pais Vasco",
+    "lat": 43.2897,
+    "lon": -2.1696,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Menakoz",
+    "link": "https://www.surf-forecast.com/breaks/Menakoz",
+    "region": "Pais Vasco",
+    "lat": 43.3975,
+    "lon": -2.9871,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "5"
+  },
+  {
+    "name": "Playa de Gros",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Gros",
+    "region": "Pais Vasco",
+    "lat": 43.3217,
+    "lon": -2.0269,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Zumaya (Playa de Itxurun)",
+    "link": "https://www.surf-forecast.com/breaks/Zumaya",
+    "region": "Pais Vasco",
+    "lat": 43.3046,
+    "lon": -2.256,
+    "reliability": "Beach/Jetty",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Mundaka",
+    "link": "https://www.surf-forecast.com/breaks/Mundaka",
+    "region": "Pais Vasco",
+    "lat": 43.415,
+    "lon": -2.7015,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "5"
+  },
+  {
+    "name": "Playa de karraspio",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Karraspio",
+    "region": "Pais Vasco",
+    "lat": 43.358,
+    "lon": -2.4848,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Zurriola hondartza",
+    "link": "https://www.surf-forecast.com/breaks/Zurriola-hondartza",
+    "region": "Pais Vasco",
+    "lat": 43.3234,
+    "lon": -1.9756,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Mutriku",
+    "link": "https://www.surf-forecast.com/breaks/Mutriku",
+    "region": "Pais Vasco",
+    "lat": 43.3171,
+    "lon": -2.3771,
+    "reliability": "Reef",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Laga",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Laga",
+    "region": "Pais Vasco",
+    "lat": 43.4098,
+    "lon": -2.6608,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "5"
+  },
+  {
+    "name": "Ajo",
+    "link": "https://www.surf-forecast.com/breaks/Ajo",
+    "region": "Spain - Cantabria",
+    "lat": 43.4989,
+    "lon": -3.6207,
+    "reliability": "-",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Noja",
+    "link": "https://www.surf-forecast.com/breaks/Noja",
+    "region": "Spain - Cantabria",
+    "lat": 43.4739,
+    "lon": -3.5044,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Miono",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Miono",
+    "region": "Spain - Cantabria",
+    "lat": 43.3647,
+    "lon": -3.1931,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Copacabana",
+    "link": "https://www.surf-forecast.com/breaks/Copacabana",
+    "region": "Spain - Cantabria",
+    "lat": 43.4606,
+    "lon": -3.9543,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Arenillas",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Arenillas",
+    "region": "Spain - Cantabria",
+    "lat": 43.4155,
+    "lon": -3.2975,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Orinon",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Orinon",
+    "region": "Spain - Cantabria",
+    "lat": 43.4119,
+    "lon": -3.3136,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "El Arenal",
+    "link": "https://www.surf-forecast.com/breaks/El-Arenal_1",
+    "region": "Spain - Cantabria",
+    "lat": 43.4554,
+    "lon": -3.9621,
+    "reliability": "Sandbar",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Arenillas",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Arenillas_1",
+    "region": "Spain - Cantabria",
+    "lat": 43.4764,
+    "lon": -3.6906,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "Playa de Oyambre",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Oyambre",
+    "region": "Spain - Cantabria",
+    "lat": 43.3956,
+    "lon": -4.3339,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "El Brusco",
+    "link": "https://www.surf-forecast.com/breaks/El-Brusco",
+    "region": "Spain - Cantabria",
+    "lat": 43.4703,
+    "lon": -3.483,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Berria",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Berria",
+    "region": "Spain - Cantabria",
+    "lat": 43.4659,
+    "lon": -3.4622,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Ris",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Ris",
+    "region": "Spain - Cantabria",
+    "lat": 43.4942,
+    "lon": -3.5165,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "El Huerto",
+    "link": "https://www.surf-forecast.com/breaks/El-Huerto",
+    "region": "Spain - Cantabria",
+    "lat": 43.4369,
+    "lon": -4.0562,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "5"
+  },
+  {
+    "name": "Playa de Brazomar",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Brazomar",
+    "region": "Spain - Cantabria",
+    "lat": 43.3751,
+    "lon": -3.2107,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Robayera",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Robayera",
+    "region": "Spain - Cantabria",
+    "lat": 43.4485,
+    "lon": -3.9806,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "El Sardinero - Primera",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Sardinero",
+    "region": "Spain - Cantabria",
+    "lat": 43.4753,
+    "lon": -3.783,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Galizano",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Galizano",
+    "region": "Spain - Cantabria",
+    "lat": 43.4762,
+    "lon": -3.688,
+    "reliability": "Beach Reef And Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Somo",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Somo",
+    "region": "Spain - Cantabria",
+    "lat": 43.4597,
+    "lon": -3.7486,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "El Sardinero - Segunda",
+    "link": "https://www.surf-forecast.com/breaks/El-Sardinero",
+    "region": "Spain - Cantabria",
+    "lat": 43.4721,
+    "lon": -3.7828,
+    "reliability": "Beach And Rocks",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Gerra",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Gerra",
+    "region": "Spain - Cantabria",
+    "lat": 43.3978,
+    "lon": -4.3637,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de Tagle",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Tagle",
+    "region": "Spain - Cantabria",
+    "lat": 43.4277,
+    "lon": -4.0996,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "5"
+  },
+  {
+    "name": "Islares",
+    "link": "https://www.surf-forecast.com/breaks/Islares",
+    "region": "Spain - Cantabria",
+    "lat": 43.4043,
+    "lon": -3.3135,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de la Concha",
+    "link": "https://www.surf-forecast.com/breaks/Playadela-Concha",
+    "region": "Spain - Cantabria",
+    "lat": 43.4435,
+    "lon": -4.0339,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "San Vicente",
+    "link": "https://www.surf-forecast.com/breaks/San-Vicentedela-Barquera",
+    "region": "Spain - Cantabria",
+    "lat": 43.3943,
+    "lon": -4.3712,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Laredo",
+    "link": "https://www.surf-forecast.com/breaks/Laredo",
+    "region": "Spain - Cantabria",
+    "lat": 43.4188,
+    "lon": -3.4395,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de Langre",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Langre",
+    "region": "Spain - Cantabria",
+    "lat": 43.4766,
+    "lon": -3.6941,
+    "reliability": "Sandbar",
+    "bestSeason": "Best Season: Winter",
+    "rating": "4"
+  },
+  {
+    "name": "San Vicente Rivermouth",
+    "link": "https://www.surf-forecast.com/breaks/San-Vicente_Rivermouth",
+    "region": "Spain - Cantabria",
+    "lat": 43.4019,
+    "lon": -4.3903,
+    "reliability": "River",
+    "bestSeason": "Best Season: Winter",
+    "rating": "3"
+  },
+  {
+    "name": "Liencres",
+    "link": "https://www.surf-forecast.com/breaks/Liencres",
+    "region": "Spain - Cantabria",
+    "lat": 43.4671,
+    "lon": -3.9497,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Playa de los Barcos",
+    "link": "https://www.surf-forecast.com/breaks/Playadelos-Barcos",
+    "region": "Spain - Cantabria",
+    "lat": 43.4944,
+    "lon": -3.5359,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Winter",
+    "rating": "1"
+  },
+  {
+    "name": "Sopico",
+    "link": "https://www.surf-forecast.com/breaks/Sopico",
+    "region": "Spain - Cantabria",
+    "lat": 43.4334,
+    "lon": -4.0802,
+    "reliability": "Point",
+    "bestSeason": "Best Season: Winter",
+    "rating": "5"
+  },
+  {
+    "name": "Los Locos",
+    "link": "https://www.surf-forecast.com/breaks/Los-Locos",
+    "region": "Spain - Cantabria",
+    "lat": 43.4409,
+    "lon": -4.0513,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Summer",
+    "rating": "5"
+  },
+  {
+    "name": "Playa de Meron",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Meron",
+    "region": "Spain - Cantabria",
+    "lat": 43.3919,
+    "lon": -4.3851,
+    "reliability": "Beach",
+    "bestSeason": "Best Season: Autumn",
+    "rating": "3"
+  },
+  {
+    "name": "Aiguaoliva",
+    "link": "https://www.surf-forecast.com/breaks/Aiguaoliva",
+    "region": "Valencia",
+    "lat": 40.4143,
+    "lon": 0.4485,
+    "reliability": "Reef",
+    "rating": "2"
+  },
+  {
+    "name": "La Placa",
+    "link": "https://www.surf-forecast.com/breaks/La-Placa",
+    "region": "Valencia",
+    "lat": 38.3675,
+    "lon": -0.4038,
+    "reliability": "Reef",
+    "rating": "1"
+  },
+  {
+    "name": "Playa del Dosel",
+    "link": "https://www.surf-forecast.com/breaks/Playadel-Dosel",
+    "region": "Valencia",
+    "lat": 39.1892,
+    "lon": -0.2208,
+    "reliability": "Beach And Point",
+    "rating": "1"
+  },
+  {
+    "name": "Benicassim",
+    "link": "https://www.surf-forecast.com/breaks/Benicassim",
+    "region": "Valencia",
+    "lat": 40.0455,
+    "lon": 0.0725,
+    "reliability": "Sandbar",
+    "rating": "2"
+  },
+  {
+    "name": "La Siesta",
+    "link": "https://www.surf-forecast.com/breaks/La-Siesta",
+    "region": "Valencia",
+    "lat": 38.7925,
+    "lon": 0.1944,
+    "reliability": "Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Playa del Torres",
+    "link": "https://www.surf-forecast.com/breaks/Playa-del-Torres",
+    "region": "Valencia",
+    "lat": 38.5066,
+    "lon": -0.1909,
+    "reliability": "Point",
+    "rating": "3"
+  },
+  {
+    "name": "Cabo de las Huertas",
+    "link": "https://www.surf-forecast.com/breaks/La-Punta_Cabo-Huertas",
+    "region": "Valencia",
+    "lat": 38.3568,
+    "lon": -0.4058,
+    "reliability": "Point",
+    "rating": "2"
+  },
+  {
+    "name": "La Zenia",
+    "link": "https://www.surf-forecast.com/breaks/La-Zenia",
+    "region": "Valencia",
+    "lat": 37.9273,
+    "lon": -0.7224,
+    "reliability": "Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Playa Finestrat",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Finestrat",
+    "region": "Valencia",
+    "lat": 38.5104,
+    "lon": -0.212,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Calita",
+    "link": "https://www.surf-forecast.com/breaks/Calita",
+    "region": "Valencia",
+    "lat": 38.3454,
+    "lon": -0.4274,
+    "reliability": "Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Malva Rosa",
+    "link": "https://www.surf-forecast.com/breaks/Malva-Rosa",
+    "region": "Valencia",
+    "lat": 39.4656,
+    "lon": -0.3219,
+    "reliability": "Sandbar",
+    "rating": "2"
+  },
+  {
+    "name": "Playa Poniente",
+    "link": "https://www.surf-forecast.com/breaks/Playa-Poniente-Benidorm",
+    "region": "Valencia",
+    "lat": 38.534,
+    "lon": -0.1495,
+    "reliability": "Beach And Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Calp",
+    "link": "https://www.surf-forecast.com/breaks/Calpe-Rock",
+    "region": "Valencia",
+    "lat": 38.6425,
+    "lon": 0.0893,
+    "reliability": "Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Montgo di Bongo",
+    "link": "https://www.surf-forecast.com/breaks/Montgo-di-Bongo",
+    "region": "Valencia",
+    "lat": 38.7882,
+    "lon": 0.1969,
+    "reliability": "Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Port Saplaya",
+    "link": "https://www.surf-forecast.com/breaks/Port-Saplaya",
+    "region": "Valencia",
+    "lat": 39.51,
+    "lon": -0.3193,
+    "reliability": "Beach",
+    "rating": "3"
+  },
+  {
+    "name": "Derecha de la Cala",
+    "link": "https://www.surf-forecast.com/breaks/Derecha",
+    "region": "Valencia",
+    "lat": 38.5275,
+    "lon": -0.1609,
+    "reliability": "Sandbar",
+    "rating": "2"
+  },
+  {
+    "name": "Moraira",
+    "link": "https://www.surf-forecast.com/breaks/Moraira",
+    "region": "Valencia",
+    "lat": 38.686,
+    "lon": 0.1305,
+    "reliability": "Beach And Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Puerto Benidorm",
+    "link": "https://www.surf-forecast.com/breaks/Puerto-Benidorm",
+    "region": "Valencia",
+    "lat": 38.535,
+    "lon": -0.135,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "El Cantal Roig",
+    "link": "https://www.surf-forecast.com/breaks/Cantal-Roig",
+    "region": "Valencia",
+    "lat": 38.6342,
+    "lon": 0.0638,
+    "reliability": "Beach And Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Moraira - Platja de l'Ampolla",
+    "link": "https://www.surf-forecast.com/breaks/Platja-de-l-Ampolla",
+    "region": "Valencia",
+    "lat": 38.686,
+    "lon": 0.1305,
+    "reliability": "Beach And Reef",
+    "rating": "3"
+  },
+  {
+    "name": "Punta Prima",
+    "link": "https://www.surf-forecast.com/breaks/Punta-Prima",
+    "region": "Valencia",
+    "lat": 37.9425,
+    "lon": -0.704,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "El Jucar",
+    "link": "https://www.surf-forecast.com/breaks/El-Jucar",
+    "region": "Valencia",
+    "lat": 39.1502,
+    "lon": -0.2306,
+    "reliability": "River",
+    "rating": "1"
+  },
+  {
+    "name": "Oliva Beach",
+    "link": "https://www.surf-forecast.com/breaks/Olivia-Beach",
+    "region": "Valencia",
+    "lat": 38.9402,
+    "lon": -0.0889,
+    "reliability": "Beach",
+    "rating": "1"
+  },
+  {
+    "name": "Sierra de Irta",
+    "link": "https://www.surf-forecast.com/breaks/Sierra-de-Irta",
+    "region": "Valencia",
+    "lat": 40.2896,
+    "lon": 0.3542,
+    "reliability": "Reef",
+    "rating": "2"
+  },
+  {
+    "name": "El Perello",
+    "link": "https://www.surf-forecast.com/breaks/El-Perello",
+    "region": "Valencia",
+    "lat": 39.2755,
+    "lon": -0.2725,
+    "reliability": "Beach",
+    "rating": "3"
+  },
+  {
+    "name": "Pico Madrid",
+    "link": "https://www.surf-forecast.com/breaks/Pico-Madrid",
+    "region": "Valencia",
+    "lat": 38.0744,
+    "lon": -0.6333,
+    "reliability": "Sandbar",
+    "rating": "2"
+  },
+  {
+    "name": "The Box",
+    "link": "https://www.surf-forecast.com/breaks/The-Box_2",
+    "region": "Valencia",
+    "lat": 38.7725,
+    "lon": 0.2,
+    "reliability": "Beach And Reef",
+    "rating": "2"
+  },
+  {
+    "name": "Jucar",
+    "link": "https://www.surf-forecast.com/breaks/Jucar",
+    "region": "Valencia",
+    "lat": 39.1502,
+    "lon": -0.2306,
+    "reliability": "River",
+    "rating": "1"
+  },
+  {
+    "name": "Playa de Levante",
+    "link": "https://www.surf-forecast.com/breaks/Playade-Lavante_Las-Arenas",
+    "region": "Valencia",
+    "lat": 39.4672,
+    "lon": -0.3241,
+    "reliability": "Beach",
+    "rating": "2"
+  },
+  {
+    "name": "La Mata",
+    "link": "https://www.surf-forecast.com/breaks/La-Mata",
+    "region": "Valencia",
+    "lat": 38.009,
+    "lon": -0.6513,
+    "reliability": "Sandbar",
+    "rating": "2"
+  },
+  {
+    "name": "Playa de San Juan",
+    "link": "https://www.surf-forecast.com/breaks/Playa-de-San-Juan-Alicante",
+    "region": "Valencia",
+    "lat": 38.3915,
+    "lon": -0.4048,
+    "reliability": "Beach And Reef",
+    "rating": "2"
+  }
+]
